@@ -1,0 +1,152 @@
+[
+  { 
+    "id": 0,
+    "title": "Steal Gloves",
+    "value": 0,
+    "stats": 
+    {
+      "power": 5,
+      "defense": 2,
+      "vitality": 5
+    },
+    "description": "stealy",
+    "stackable": false,
+    "rarity": 3,
+    "sprite": "bronze_sword"
+  },
+  { 
+    "id": 1,
+    "title":"irun Boots",
+    "value": 7,
+    "stats": 
+    {
+      "power": 2,
+      "defense":10,
+      "vitality":8 
+    },
+    "description":"quite fast",
+    "stackable": false ,
+    "rarity": 1,
+    "sprite": "bronze_sword"
+  },
+  { 
+    "id": 2,
+    "title":"several pens",
+    "value": 7,
+    "stats": 
+    {
+      "power": 2,
+      "defense":10,
+      "vitality":8 
+    },
+    "description":"the penis mightier than the sword",
+    "stackable": false ,
+    "rarity": 1,
+    "sprite": "bronze_sword"
+  },
+  { 
+    "id": 3,
+    "title":"a rock",
+    "value": 7,
+    "stats": 
+    {
+      "power": 9,
+      "defense":0,
+      "vitality":1 
+    },
+    "description":"aerodinamic and erganomical",
+    "stackable": false ,
+    "rarity": 50,
+    "sprite": "bronze_sword"
+  },
+  { 
+    "id" : 4,
+    "title" : "bunch of stuff",
+    "value" : 8,
+    "stats" : 
+    {
+      "power" : 2,
+      "defense" : 2,
+      "vitality" : 8 
+    },
+    "description" : "probably valuable",
+    "stackable" : false ,
+    "rarity" : 0,
+    "sprite" : "bronze_sword"
+  },
+  { 
+    "id" : 5,
+    "title" : "cupboard door",
+    "value" : 2,
+    "stats" : 
+    {
+      "power": 0,
+      "defense":15,
+      "vitality":25 
+    },
+    "description":"shield of the poor",
+    "stackable": false ,
+    "rarity": 1,
+    "sprite": "bronze_sword"
+  },
+  { 
+    "id": 6,
+    "title":"jacket with exesive zippers",
+    "value": 7,
+    "stats": 
+    {
+      "power": 2,
+      "defense":10,
+      "vitality":8 
+    },
+    "description":"sturdier than you'd think",
+    "stackable": false ,
+    "rarity": 1,
+    "sprite": "bronze_sword"
+  },
+  { 
+    "id": 7,
+    "title":"a stick",
+    "value": 7,
+    "stats": 
+    {
+      "power": 2,
+      "defense":10,
+      "vitality":8 
+    },
+    "description":"brown and sticky",
+    "stackable": false ,
+    "rarity": 1,
+    "sprite": "bronze_sword"
+  },
+  { 
+    "id": 8,
+    "title":"bundle of books",
+    "value": 7,
+    "stats": 
+    {
+      "power": 2,
+      "defense":10,
+      "vitality":8 
+    },
+    "description":"stol- borrowed from the library",
+    "stackable": false ,
+    "rarity": 1,
+    "sprite": "bronze_sword"
+  },
+  { 
+    "id": 9,
+    "title":"burnt pot",
+    "value": 7,
+    "stats": 
+    {
+      "power": 2,
+      "defense":10,
+      "vitality":8 
+    },
+    "description":"keeps the sun off your face",
+    "stackable": false ,
+    "rarity": 1,
+    "sprite": "bronze_sword"
+  }
+]
